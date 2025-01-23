@@ -3,9 +3,8 @@
   "version": "0.5.2",
   "description": "A spring that solves your animation problems.",
   "main": "lib/react-motion.js",
-  "module": "lib/react-motion.esm.js",
   "peerDependencies": {
-    "react": "^15.6.2 || ^16 || ^17 || ^18"
+    "react": "^15.6.2 || ^16.0.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0-rc.1",
